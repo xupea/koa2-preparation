@@ -1,5 +1,10 @@
 # koa2-preparation
 
+用Node.js创建自签名的HTTPS服务器
+```
+https://cnodejs.org/topic/54745ac22804a0997d38b32d
+```
+
 ```
 https://github.com/koajs/koa/tree/v2.x#babel-setup
 ```
