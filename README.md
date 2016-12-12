@@ -25,3 +25,7 @@ app.use(function *() {
 ```
 https://www.npmjs.com/package/koa-log4
 ```
+
+```
+https://github.com/queckezz/koa-views
+```
